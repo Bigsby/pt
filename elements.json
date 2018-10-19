@@ -1,0 +1,1896 @@
+[
+    {
+        "number": 1,
+        "period": 1,
+        "group": 1,
+        "symbol": "H",
+        "name": "Hydrogen",
+        "category": "reactiove nonmetal",
+        "mass": 1.008,
+        "electrons": [
+            1
+        ]
+    },
+    {
+        "number": 2,
+        "period": 1,
+        "group": 18,
+        "symbol": "He",
+        "name": "Helium",
+        "category": "noble gas",
+        "mass": 4.0026,
+        "electrons": [
+            2
+        ]
+    },
+    {
+        "number": 3,
+        "period": 2,
+        "group": 1,
+        "symbol": "Li",
+        "name": "Lithium",
+        "category": "alkali metal",
+        "mass": 6.94,
+        "electrons": [
+            2,
+            1
+        ]
+    },
+    {
+        "number": 4,
+        "period": 2,
+        "group": 2,
+        "symbol": "Be",
+        "name": "Beryllium",
+        "category": "alkaline earth metal",
+        "mass": 9.0122,
+        "electrons": [
+            2,
+            2
+        ]
+    },
+    {
+        "number": 5,
+        "period": 2,
+        "group": 13,
+        "symbol": "B",
+        "name": "Boron",
+        "category": "metalloid",
+        "mass": 10.81,
+        "electrons": [
+            2,
+            3
+        ]
+    },
+    {
+        "number": 6,
+        "period": 2,
+        "group": 14,
+        "symbol": "C",
+        "name": "Carbon",
+        "category": "reactiove nonmetal",
+        "mass": 12.011,
+        "electrons": [
+            2,
+            4
+        ]
+    },
+    {
+        "number": 7,
+        "period": 2,
+        "group": 15,
+        "symbol": "N",
+        "name": "Nitrogen",
+        "category": "reactiove nonmetal",
+        "mass": 14.007,
+        "electrons": [
+            2,
+            5
+        ]
+    },
+    {
+        "number": 8,
+        "period": 2,
+        "group": 16,
+        "symbol": "O",
+        "name": "Oxygen",
+        "category": "reactiove nonmetal",
+        "mass": 15.999,
+        "electrons": [
+            2,
+            6
+        ]
+    },
+    {
+        "number": 9,
+        "period": 2,
+        "group": 17,
+        "symbol": "F",
+        "name": "Fuorine",
+        "category": "reactiove nonmetal",
+        "mass": 18.998,
+        "electrons": [
+            2,
+            7
+        ]
+    },
+    {
+        "number": 10,
+        "period": 2,
+        "group": 18,
+        "symbol": "Ne",
+        "name": "Neon",
+        "category": "noble gas",
+        "mass": 20.180,
+        "electrons": [
+            2,
+            8
+        ]
+    },
+    {
+        "number": 11,
+        "period": 3,
+        "group": 1,
+        "symbol": "Na",
+        "name": "Sodium",
+        "category": "alkali metal",
+        "mass": 22.990,
+        "electrons": [
+            2,
+            8,
+            1
+        ]
+    },
+    {
+        "number": 12,
+        "period": 3,
+        "group": 2,
+        "symbol": "Mg",
+        "name": "Magnesium",
+        "category": "alkaline earth metal",
+        "mass": 24.305,
+        "electrons": [
+            2,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 13,
+        "period": 3,
+        "group": 13,
+        "symbol": "Al",
+        "name": "Aluminium",
+        "category": "post-transition metal",
+        "mass": 26.982,
+        "electrons": [
+            2,
+            8,
+            3
+        ]
+    },
+    {
+        "number": 14,
+        "period": 3,
+        "group": 14,
+        "symbol": "Si",
+        "name": "Silicon",
+        "category": "metalloid",
+        "mass": 28.085,
+        "electrons": [
+            2,
+            8,
+            4
+        ]
+    },
+    {
+        "number": 15,
+        "period": 3,
+        "group": 15,
+        "symbol": "P",
+        "name": "Phosphorus",
+        "category": "reactiove nonmetal",
+        "mass": 20.974,
+        "electrons": [
+            2,
+            8,
+            5
+        ]
+    },
+    {
+        "number": 16,
+        "period": 3,
+        "group": 16,
+        "symbol": "S",
+        "name": "Sulfur",
+        "category": "reactiove nonmetal",
+        "mass": 32.06,
+        "electrons": [
+            2,
+            8,
+            6
+        ]
+    },
+    {
+        "number": 17,
+        "period": 3,
+        "group": 17,
+        "symbol": "Cl",
+        "name": "Chlorine",
+        "category": "reactiove nonmetal",
+        "mass": 35.45,
+        "electrons": [
+            2,
+            8,
+            7
+        ]
+    },
+    {
+        "number": 18,
+        "period": 3,
+        "group": 18,
+        "symbol": "Ar",
+        "name": "Argon",
+        "category": "noble gas",
+        "mass": 39.948,
+        "electrons": [
+            2,
+            8,
+            8
+        ]
+    },
+    {
+        "number": 19,
+        "period": 4,
+        "group": 1,
+        "symbol": "K",
+        "name": "Potassium",
+        "category": "alkali metal",
+        "mass": 38.098,
+        "electrons": [
+            2,
+            8,
+            8,
+            1
+        ]
+    },
+    {
+        "number": 20,
+        "period": 4,
+        "group": 2,
+        "symbol": "Ca",
+        "name": "Calcium",
+        "category": "alkaline earth metal",
+        "mass": 40.078,
+        "electrons": [
+            2,
+            8,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 21,
+        "period": 4,
+        "group": 3,
+        "symbol": "Sc",
+        "name": "Scandium",
+        "category": "transition metal",
+        "mass": 44.958,
+        "electrons": [
+            2,
+            8,
+            9,
+            2
+        ]
+    },
+    {
+        "number": 22,
+        "period": 4,
+        "group": 4,
+        "symbol": "Ti",
+        "name": "Titatium",
+        "category": "transition metal",
+        "mass": 47.867,
+        "electrons": [
+            2,
+            8,
+            10,
+            2
+        ]
+    },
+    {
+        "number": 23,
+        "period": 4,
+        "group": 5,
+        "symbol": "V",
+        "name": "Vanadium",
+        "category": "transition metal",
+        "mass": 50.942,
+        "electrons": [
+            2,
+            8,
+            11,
+            2
+        ]
+    },
+    {
+        "number": 24,
+        "period": 4,
+        "group": 6,
+        "symbol": "Cr",
+        "name": "Chromium",
+        "category": "transition metal",
+        "mass": 51.996,
+        "electrons": [
+            2,
+            8,
+            13,
+            1
+        ]
+    },
+    {
+        "number": 25,
+        "period": 4,
+        "group": 7,
+        "symbol": "Mn",
+        "name": "Manganese",
+        "category": "transition metal",
+        "mass": 54.938,
+        "electrons": [
+            2,
+            8,
+            13,
+            2
+        ]
+    },
+    {
+        "number": 26,
+        "period": 4,
+        "group": 8,
+        "symbol": "Fe",
+        "name": "Iron",
+        "category": "transition metal",
+        "mass": 55.845,
+        "electrons": [
+            2,
+            8,
+            14,
+            2
+        ]
+    },
+    {
+        "number": 27,
+        "period": 4,
+        "group": 9,
+        "symbol": "Co",
+        "name": "Cobalt",
+        "mass": 58.933,
+        "electrons": [
+            2,
+            8,
+            15,
+            2
+        ]
+    },
+    {
+        "number": 28,
+        "period": 4,
+        "group": 10,
+        "symbol": "Ni",
+        "name": "Nickel",
+        "category": "transition metal",
+        "mass": 58.693,
+        "electrons": [
+            [
+                2,
+                8,
+                16,
+                2
+            ],
+            [
+                2,
+                8,
+                17,
+                1
+            ]
+        ]
+    },
+    {
+        "number": 29,
+        "period": 4,
+        "group": 11,
+        "symbol": "Cu",
+        "name": "Copper",
+        "category": "transition metal",
+        "mass": 63.546,
+        "electrons": [
+            2,
+            8,
+            18,
+            1
+        ]
+    },
+    {
+        "number": 30,
+        "period": 4,
+        "group": 12,
+        "symbol": "Zn",
+        "name": "Zinc",
+        "category": "post-transition metal",
+        "mass": 65.38,
+        "electrons": [
+            2,
+            8,
+            18,
+            2
+        ]
+    },
+    {
+        "number": 31,
+        "period": 4,
+        "group": 13,
+        "symbol": "Ga",
+        "name": "Gallium",
+        "category": "post-transition metal",
+        "mass": 69.723,
+        "electrons": [
+            2,
+            8,
+            18,
+            3
+        ]
+    },
+    {
+        "number": 32,
+        "period": 4,
+        "group": 14,
+        "symbol": "Ge",
+        "name": "Germanium",
+        "category": "metalloid",
+        "mass": 72.630,
+        "electrons": [
+            2,
+            8,
+            18,
+            4
+        ]
+    },
+    {
+        "number": 33,
+        "period": 4,
+        "group": 15,
+        "symbol": "As",
+        "name": "Arsenic",
+        "category": "metalloid",
+        "mass": 74.922,
+        "electrons": [
+            2,
+            8,
+            18,
+            5
+        ]
+    },
+    {
+        "number": 34,
+        "period": 4,
+        "group": 16,
+        "symbol": "Se",
+        "name": "Selenium",
+        "category": "reactiove nonmetal",
+        "mass": 78.971,
+        "electrons": [
+            2,
+            8,
+            18,
+            6
+        ]
+    },
+    {
+        "number": 35,
+        "period": 4,
+        "group": 17,
+        "symbol": "Br",
+        "name": "Bromine",
+        "category": "reactiove nonmetal",
+        "mass": 79.904,
+        "electrons": [
+            2,
+            8,
+            18,
+            7
+        ]
+    },
+    {
+        "number": 36,
+        "period": 4,
+        "group": 18,
+        "symbol": "Kr",
+        "name": "Krypton",
+        "category": "noble gas",
+        "mass": 83.798,
+        "electrons": [
+            2,
+            8,
+            18,
+            8
+        ]
+    },
+    {
+        "number": 37,
+        "period": 5,
+        "group": 1,
+        "symbol": "Rb",
+        "name": "Rubidium",
+        "category": "alkali metal",
+        "mass": 85.468,
+        "electrons": [
+            2,
+            8,
+            18,
+            8,
+            1
+        ]
+    },
+    {
+        "number": 38,
+        "period": 5,
+        "group": 2,
+        "symbol": "Sr",
+        "name": "Strontium",
+        "category": "alkaline earth metal",
+        "mass": 87.62,
+        "electrons": [
+            2,
+            8,
+            18,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 39,
+        "period": 5,
+        "group": 3,
+        "symbol": "Y",
+        "name": "Yttrium",
+        "category": "transition metal",
+        "mass": 88.905,
+        "electrons": [
+            2,
+            8,
+            18,
+            9,
+            2
+        ]
+    },
+    {
+        "number": 40,
+        "period": 5,
+        "group": 4,
+        "symbol": "Zr",
+        "name": "Zirconium",
+        "category": "transition metal",
+        "mass": 91.224,
+        "electrons": [
+            2,
+            8,
+            18,
+            10,
+            2
+        ]
+    },
+    {
+        "number": 41,
+        "period": 5,
+        "group": 5,
+        "symbol": "Nb",
+        "name": "Niobium",
+        "category": "transition metal",
+        "mass": 92.906,
+        "electrons": [
+            2,
+            8,
+            18,
+            12,
+            1
+        ]
+    },
+    {
+        "number": 42,
+        "period": 5,
+        "group": 6,
+        "symbol": "Mo",
+        "name": "Molybdenum",
+        "category": "transition metal",
+        "mass": 95.95,
+        "electrons": [
+            2,
+            8,
+            18,
+            13,
+            1
+        ]
+    },
+    {
+        "number": 43,
+        "period": 5,
+        "group": 7,
+        "symbol": "Tc",
+        "name": "Technetium",
+        "category": "transition metal",
+        "mass": 98,
+        "electrons": [
+            2,
+            8,
+            18,
+            13,
+            2
+        ]
+    },
+    {
+        "number": 44,
+        "period": 5,
+        "group": 8,
+        "symbol": "Ru",
+        "name": "Ruthenium",
+        "category": "transition metal",
+        "mass": 101.07,
+        "electrons": [
+            2,
+            8,
+            18,
+            15,
+            1
+        ]
+    },
+    {
+        "number": 45,
+        "period": 5,
+        "group": 9,
+        "symbol": "Rh",
+        "name": "Rhodium",
+        "category": "transition metal",
+        "mass": 192.905,
+        "electrons": [
+            2,
+            8,
+            18,
+            16,
+            1
+        ]
+    },
+    {
+        "number": 46,
+        "period": 5,
+        "group": 10,
+        "symbol": "Pd",
+        "name": "Palladium",
+        "category": "transition metal",
+        "mass": 106.42,
+        "electrons": [
+            2,
+            8,
+            18,
+            18
+        ]
+    },
+    {
+        "number": 47,
+        "period": 5,
+        "group": 11,
+        "symbol": "Ag",
+        "name": "Silver",
+        "category": "transition metal",
+        "mass": 107.87,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            1
+        ]
+    },
+    {
+        "number": 48,
+        "period": 5,
+        "group": 12,
+        "symbol": "Cd",
+        "name": "Cadmium",
+        "category": "post-transition metal",
+        "mass": 112.41,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            2
+        ]
+    },
+    {
+        "number": 49,
+        "period": 5,
+        "group": 13,
+        "symbol": "In",
+        "name": "Indium",
+        "category": "post-transition metal",
+        "mass": 114.818,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            3
+        ]
+    },
+    {
+        "number": 50,
+        "period": 5,
+        "group": 14,
+        "symbol": "Sn",
+        "name": "Tin",
+        "category": "post-transition metal",
+        "mass": 118.710,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            4
+        ]
+    },
+    {
+        "number": 51,
+        "period": 5,
+        "group": 15,
+        "symbol": "Sb",
+        "name": "Antimony",
+        "category": "metalloid",
+        "mass": 121.760,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            5
+        ]
+    },
+    {
+        "number": 52,
+        "period": 5,
+        "group": 16,
+        "symbol": "Te",
+        "name": "Tellurium",
+        "category": "metalloid",
+        "mass": 127.60,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            6
+        ]
+    },
+    {
+        "number": 53,
+        "period": 5,
+        "group": 17,
+        "symbol": "I",
+        "name": "Iodine",
+        "category": "reactiove nonmetal",
+        "mass": 126.904,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            7
+        ]
+    },
+    {
+        "number": 54,
+        "period": 5,
+        "group": 18,
+        "symbol": "Xe",
+        "name": "Xenon",
+        "category": "noble gas",
+        "mass": 131.293,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            8
+        ]
+    },
+    {
+        "number": 55,
+        "period": 6,
+        "group": 1,
+        "symbol": "Cs",
+        "name": "Caesium",
+        "category": "alkali metal",
+        "mass": 132.905,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            8,
+            1
+        ]
+    },
+    {
+        "number": 56,
+        "period": 6,
+        "group": 2,
+        "symbol": "Ba",
+        "name": "Barium",
+        "category": "alkaline earth metal",
+        "mass": 137.327,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 57,
+        "period": 6,
+        "group": 3,
+        "symbol": "La",
+        "name": "Lanthanum",
+        "category": "lanthanide",
+        "mass": 138.905,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            9,
+            2
+        ]
+    },
+    {
+        "number": 58,
+        "period": 6,
+        "symbol": "Ce",
+        "name": "Cerium",
+        "category": "lanthanide",
+        "mass": 140.116,
+        "electrons": [
+            2,
+            8,
+            18,
+            19,
+            9,
+            2
+        ]
+    },
+    {
+        "number": 59,
+        "period": 6,
+        "symbol": "Pr",
+        "name": "Praseodymium",
+        "category": "lanthanide",
+        "mass": 140.907,
+        "electrons": [
+            2,
+            8,
+            18,
+            21,
+            9,
+            2
+        ]
+    },
+    {
+        "number": 60,
+        "period": 6,
+        "symbol": "Nd",
+        "name": "Neodymium",
+        "category": "lanthanide",
+        "mass": 144.242,
+        "electrons": [
+            2,
+            8,
+            18,
+            22,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 61,
+        "period": 6,
+        "symbol": "Pm",
+        "name": "Promethium",
+        "category": "lanthanide",
+        "mass": 145,
+        "electrons": [
+            2,
+            8,
+            18,
+            23,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 62,
+        "period": 6,
+        "symbol": "Sm",
+        "name": "Samarium",
+        "category": "lanthanide",
+        "mass": 150.36,
+        "electrons": [
+            1,
+            8,
+            18,
+            24,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 63,
+        "period": 6,
+        "symbol": "Eu",
+        "name": "Europium",
+        "category": "lanthanide",
+        "mass": 151.964,
+        "electrons": [
+            2,
+            8,
+            18,
+            25,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 64,
+        "period": 6,
+        "symbol": "Gd",
+        "name": "Gadolinium",
+        "category": "lanthanide",
+        "mass": 157.25,
+        "electrons": [
+            1,
+            8,
+            18,
+            25,
+            9,
+            2
+        ]
+    },
+    {
+        "number": 65,
+        "period": 6,
+        "symbol": "Tb",
+        "name": "Terbium",
+        "category": "lanthanide",
+        "mass": 158.925,
+        "electrons": [
+            2,
+            8,
+            18,
+            27,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 66,
+        "period": 6,
+        "symbol": "Dy",
+        "name": "Dysprosium",
+        "category": "lanthanide",
+        "mass": 162.500,
+        "electrons": [
+            2,
+            8,
+            18,
+            28,
+            2,
+            2
+        ]
+    },
+    {
+        "number": 67,
+        "period": 6,
+        "symbol": "Ho",
+        "name": "Holmium",
+        "category": "lanthanide",
+        "mass": 164.930,
+        "electrons": [
+            2,
+            8,
+            18,
+            29,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 68,
+        "period": 6,
+        "symbol": "Er",
+        "name": "Erbium",
+        "category": "lanthanide",
+        "mass": 167.259,
+        "electrons": [
+            2,
+            8,
+            18,
+            30,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 69,
+        "period": 6,
+        "symbol": "Tm",
+        "name": "Thulium",
+        "category": "lanthanide",
+        "mass": 168.934,
+        "electrons": [
+            2,
+            8,
+            18,
+            31,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 70,
+        "period": 6,
+        "symbol": "Yb",
+        "name": "Ytterbium",
+        "category": "lanthanide",
+        "mass": 173.045,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 71,
+        "period": 6,
+        "symbol": "Lu",
+        "name": "Luterium",
+        "category": "lanthanide",
+        "mass": 174.967,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            9,
+            2
+        ]
+    },
+    {
+        "number": 72,
+        "period": 6,
+        "group": 4,
+        "symbol": "Hf",
+        "name": "Hafnium",
+        "category": "transition metal",
+        "mass": 178.49,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            10,
+            2
+        ]
+    },
+    {
+        "number": 73,
+        "period": 6,
+        "group": 5,
+        "symbol": "Ta",
+        "name": "Tantalum",
+        "category": "transition metal",
+        "mass": 180.947,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            11,
+            2
+        ]
+    },
+    {
+        "number": 74,
+        "period": 6,
+        "group": 6,
+        "symbol": "W",
+        "name": "Tungsten",
+        "category": "transition metal",
+        "mass": 183.84,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            12,
+            2
+        ]
+    },
+    {
+        "number": 75,
+        "period": 6,
+        "group": 7,
+        "symbol": "Re",
+        "name": "Rhenium",
+        "category": "transition metal",
+        "mass": 186.207,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            13,
+            2
+        ]
+    },
+    {
+        "number": 76,
+        "period": 6,
+        "group": 8,
+        "symbol": "Os",
+        "name": "Osmium",
+        "category": "transition metal",
+        "mass": 190.23,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            14,
+            2
+        ]
+    },
+    {
+        "number": 77,
+        "period": 6,
+        "group": 9,
+        "symbol": "Ir",
+        "name": "Iridium",
+        "category": "transition metal",
+        "mass": 192.217,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            15,
+            2
+        ]
+    },
+    {
+        "number": 78,
+        "period": 6,
+        "group": 10,
+        "symbol": "Pt",
+        "name": "Platinum",
+        "category": "transition metal",
+        "mass": 195.084,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            17,
+            1
+        ]
+    },
+    {
+        "number": 79,
+        "period": 6,
+        "group": 11,
+        "symbol": "Au",
+        "name": "Gold",
+        "category": "transition metal",
+        "mass": 196.967,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            1
+        ]
+    },
+    {
+        "number": 80,
+        "period": 6,
+        "group": 12,
+        "symbol": "Hg",
+        "name": "Mercury",
+        "alternative_name": "Hydrargyrum",
+        "category": "post-transition metal",
+        "mass": 200.592,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            2
+        ]
+    },
+    {
+        "number": 81,
+        "period": 6,
+        "group": 13,
+        "symbol": "Tl",
+        "name": "Thallium",
+        "category": "post-transition metal",
+        "mass": 204.38,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            3
+        ]
+    },
+    {
+        "number": 82,
+        "period": 6,
+        "group": 14,
+        "symbol": "Pb",
+        "name": "Lead",
+        "category": "post-transition metal",
+        "mass": 207.2,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            4
+        ]
+    },
+    {
+        "number": 83,
+        "period": 6,
+        "group": 15,
+        "symbol": "Bi",
+        "name": "Bismuth",
+        "category": "post-transition metal",
+        "mass": 208.980,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            5
+        ]
+    },
+    {
+        "number": 84,
+        "period": 6,
+        "group": 16,
+        "symbol": "Po",
+        "name": "Polonium",
+        "category": "post-transition metal",
+        "mass": 209,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            6
+        ]
+    },
+    {
+        "number": 85,
+        "period": 6,
+        "group": 17,
+        "symbol": "At",
+        "name": "Astatine",
+        "category": "metalloid",
+        "mass": 210,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            7
+        ]
+    },
+    {
+        "number": 86,
+        "period": 6,
+        "group": 18,
+        "symbol": "Rn",
+        "name": "Radon",
+        "category": "noble gas",
+        "mass": 222,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            8
+        ]
+    },
+    {
+        "number": 87,
+        "period": 7,
+        "group": 1,
+        "symbol": "Fr",
+        "name": "Francium",
+        "category": "alkali metal",
+        "mass": 223,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            8,
+            1
+        ]
+    },
+    {
+        "number": 88,
+        "period": 7,
+        "group": 2,
+        "symbol": "Ra",
+        "name": "Radium",
+        "category": "alkaline earth metal",
+        "mass": 226,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 89,
+        "period": 7,
+        "group": 3,
+        "symbol": "Ac",
+        "name": "Actinium",
+        "category": "actinide",
+        "mass": 227,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            9,
+            2
+        ]
+    },
+    {
+        "number": 90,
+        "period": 7,
+        "symbol": "Th",
+        "name": "Thorium",
+        "category": "actinide",
+        "mass": 232.038,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            10,
+            2
+        ]
+    },
+    {
+        "number": 91,
+        "period": 7,
+        "symbol": "Pa",
+        "name": "Protactinium",
+        "category": "actinide",
+        "mass": 231.035,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            20,
+            9,
+            2
+        ]
+    },
+    {
+        "number": 92,
+        "period": 7,
+        "symbol": "U",
+        "name": "Uranium",
+        "category": "actinide",
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            21,
+            9,
+            2
+        ]
+    },
+    {
+        "number": 93,
+        "period": 7,
+        "symbol": "Np",
+        "name": "Neptunium",
+        "category": "actinide",
+        "mass": 237,
+        "electrons": [
+            2,
+            18,
+            32,
+            22,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 94,
+        "period": 7,
+        "symbol": "Pu",
+        "name": "Plutonium",
+        "category": "actinide",
+        "mass": 244,
+        "electrons": [
+            2,
+            18,
+            32,
+            24,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 95,
+        "period": 7,
+        "symbol": "Am",
+        "name": "Americium",
+        "category": "actinide",
+        "mass": 243,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            25,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 96,
+        "period": 7,
+        "symbol": "Cm",
+        "name": "Curium",
+        "category": "actinide",
+        "mass": 247,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            25,
+            9,
+            2
+        ]
+    },
+    {
+        "number": 97,
+        "period": 7,
+        "symbol": "Bk",
+        "name": "Berkelium",
+        "category": "actinide",
+        "mass": 247,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            27,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 98,
+        "period": 7,
+        "symbol": "Cf",
+        "name": "Californium",
+        "category": "actinide",
+        "mass": 251,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            28,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 99,
+        "period": 7,
+        "symbol": "Es",
+        "name": "Einsteinium",
+        "category": "actinide",
+        "mass": 252,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            29,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 100,
+        "period": 7,
+        "symbol": "Fm",
+        "name": "Fermium",
+        "category": "actinide",
+        "mass": 257,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            30,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 101,
+        "period": 7,
+        "symbol": "Md",
+        "name": "Mendelevium",
+        "category": "actinide",
+        "mass": 258,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            31,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 102,
+        "period": 7,
+        "symbol": "No",
+        "name": "Nobelium",
+        "category": "actinide",
+        "mass": 259,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            8,
+            2
+        ]
+    },
+    {
+        "number": 103,
+        "period": 7,
+        "symbol": "Lr",
+        "name": "Lawrencium",
+        "category": "actinide",
+        "mass": 266,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            8,
+            3
+        ]
+    },
+    {
+        "number": 104,
+        "period": 7,
+        "group": 4,
+        "symbol": "Rf",
+        "name": "Rutherfordium",
+        "category": "transition metal",
+        "mass": 267,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            10,
+            2
+        ]
+    },
+    {
+        "number": 105,
+        "period": 7,
+        "group": 5,
+        "symbol": "Db",
+        "name": "Dubnium",
+        "category": "transition metal",
+        "mass": 268,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            11,
+            2
+        ]
+    },
+    {
+        "number": 106,
+        "period": 7,
+        "group": 6,
+        "symbol": "Sg",
+        "name": "Seaborgium",
+        "category": "transition metal",
+        "mass": 269,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            12,
+            2
+        ]
+    },
+    {
+        "number": 107,
+        "period": 7,
+        "group": 7,
+        "symbol": "Bh",
+        "name": "Bohrium",
+        "category": "transition metal",
+        "mass": 270,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            13,
+            2
+        ]
+    },
+    {
+        "number": 108,
+        "period": 7,
+        "group": 8,
+        "symbol": "Hs",
+        "name": "Hassium",
+        "category": "transition metal",
+        "mass": 270,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            14,
+            2
+        ]
+    },
+    {
+        "number": 109,
+        "period": 7,
+        "group": 9,
+        "symbol": "Mt",
+        "name": "Meitnerium",
+        "category": "unknown",
+        "mass": 278,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            15,
+            2
+        ]
+    },
+    {
+        "number": 110,
+        "period": 7,
+        "group": 10,
+        "symbol": "Ds",
+        "name": "Darmstadtium",
+        "category": "unknown",
+        "mass": 281,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            16,
+            2
+        ]
+    },
+    {
+        "number": 111,
+        "period": 7,
+        "group": 11,
+        "symbol": "Rg",
+        "name": "Roentgenium",
+        "category": "unknown",
+        "mass": 282,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            17,
+            2
+        ]
+    },
+    {
+        "number": 112,
+        "period": 7,
+        "group": 12,
+        "symbol": "Cn",
+        "name": "Copernicium",
+        "category": "post-transition metal",
+        "mass": 285,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            2
+        ]
+    },
+    {
+        "number": 113,
+        "period": 7,
+        "group": 13,
+        "symbol": "Nh",
+        "name": "Nihonium",
+        "category": "unknown",
+        "mass": 286,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            3
+        ]
+    },
+    {
+        "number": 114,
+        "period": 7,
+        "group": 14,
+        "symbol": "Fl",
+        "name": "Flerovium",
+        "category": "unknown",
+        "mass": 289,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            4
+        ]
+    },
+    {
+        "number": 115,
+        "period": 7,
+        "group": 15,
+        "symbol": "Mc",
+        "name": "Moscovium",
+        "category": "unknown",
+        "mass": 290,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            5
+        ]
+    },
+    {
+        "number": 116,
+        "period": 7,
+        "group": 16,
+        "symbol": "Lv",
+        "name": "Livermorium",
+        "category": "unknown",
+        "mass": 291,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            6
+        ]
+    },
+    {
+        "number": 117,
+        "period": 7,
+        "group": 17,
+        "symbol": "Ts",
+        "name": "Tennessine",
+        "category": "unknown",
+        "mass": 294,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            7
+        ]
+    },
+    {
+        "number": 118,
+        "period": 7,
+        "group": 18,
+        "symbol": "Og",
+        "name": "Oganesson",
+        "category": "unknown",
+        "mass": 294,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            8
+        ]
+    }
+]
